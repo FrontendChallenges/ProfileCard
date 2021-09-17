@@ -1,8 +1,14 @@
-.card-container {
-  max-width: 35rem;
-  margin: 0 auto;
-  border: none;
-  border-radius: $border-radius-lg;
-  background-color: $white;
-  flex-direction: column;
+.card {
+  &__container {
+    max-width: 35rem;
+    margin: 0 auto;
+    border: none;
+    border-radius: $border-radius-lg;
+    background-color: $white;
+    flex-direction: column;
+  }
+
+  &__content {
+    text-align: center;
+  }
 }
