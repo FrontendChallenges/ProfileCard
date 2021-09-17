@@ -10,5 +10,8 @@
 
   &__content {
     text-align: center;
+    &-social p {
+      margin-bottom: 0;
+    }
   }
 }

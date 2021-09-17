@@ -27,15 +27,28 @@ function ProfileCard({
             />
           </Card.ImgOverlay>
         </Row>
-        <Card.Body className='card__content'>
-          <Row className='my-5 pt-5'>
+        <Card.Body className='card__content pt-4 mt-5'>
+          <Row className='my-5'>
             <p>
               <span className='fw-bold'>{name} </span>
               <span className='text-secondary'>{age}</span>
             </p>
             <small className='text-secondary'>{city}</small>
           </Row>
-          <Row></Row>
+          <Row className='border-top text-center py-3 card__content-social'>
+            <Col>
+              <p>{followers}</p>
+              <small>Followers</small>
+            </Col>
+            <Col>
+              <p>{likes}</p>
+              <small>Likes</small>
+            </Col>
+            <Col>
+              <p>{photos}</p>
+              <small>Photos</small>
+            </Col>
+          </Row>
         </Card.Body>
       </Card>
     </Col>

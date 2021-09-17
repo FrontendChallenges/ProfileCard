@@ -70,3 +70,5 @@ footer {
 
 .card__content {
   text-align: center; }
+  .card__content-social p {
+    margin-bottom: 0; }
