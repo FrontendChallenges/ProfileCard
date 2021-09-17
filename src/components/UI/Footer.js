@@ -3,7 +3,7 @@ import Container from 'react-bootstrap/Container';
 
 function Footer() {
   return (
-    <footer className='my-3'>
+    <footer className='mb-3'>
       <Container className='text-center'>
         Challenge by
         <a
