@@ -10,8 +10,20 @@
 
   &__content {
     text-align: center;
-    &-social p {
-      margin-bottom: 0;
+    &-social {
+      .col > :first-child {
+        font-weight: 700;
+      }
+
+      .col > :last-child {
+        font-size: 1rem;
+        letter-spacing: 0.1rem;
+        color: $secondary;
+      }
+
+      p {
+        margin-bottom: 0;
+      }
     }
   }
 }

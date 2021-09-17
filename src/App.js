@@ -11,9 +11,9 @@ function App() {
   return (
     <>
       <main>
-        <section className='section-main'>
-          <Container fluid='sm'>
-            <Row className='justify-content-center'>
+        <section>
+          <Container>
+            <Row className='main-container justify-content-center align-items-center'>
               <ProfileCard
                 bg={bg}
                 person={person}

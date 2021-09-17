@@ -38,15 +38,15 @@ function ProfileCard({
           <Row className='border-top text-center py-3 card__content-social'>
             <Col>
               <p>{followers}</p>
-              <small>Followers</small>
+              <p>Followers</p>
             </Col>
             <Col>
               <p>{likes}</p>
-              <small>Likes</small>
+              <p>Likes</p>
             </Col>
             <Col>
               <p>{photos}</p>
-              <small>Photos</small>
+              <p>Photos</p>
             </Col>
           </Row>
         </Card.Body>
