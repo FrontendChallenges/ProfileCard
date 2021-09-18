@@ -54,11 +54,22 @@ html {
   font-size: 62.5%; }
 
 body {
-  background-color: #19a2ae; }
+  background-color: #19a2ae;
+  background-image: url(../../images/bg-pattern-top.svg), url(../../images/bg-pattern-bottom.svg);
+  background-repeat: no-repeat, no-repeat;
+  background-position: -30rem -50rem, 65rem 35rem; }
 
 footer {
   font-size: 1.3rem;
   color: #2d3248; }
+
+.main-container {
+  height: 100vh; }
+
+@media screen and (max-width: 576px) {
+  body {
+    background-position: -100px -150px, 150px 300px;
+    background-size: contain, contain; } }
 
 .card__container {
   max-width: 35rem;
@@ -70,5 +81,11 @@ footer {
 
 .card__content {
   text-align: center; }
+  .card__content-social .col > :first-child {
+    font-weight: 700; }
+  .card__content-social .col > :last-child {
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+    color: #6a6f81; }
   .card__content-social p {
     margin-bottom: 0; }
