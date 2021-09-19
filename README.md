@@ -9,7 +9,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Screenshot
 - Desktop: 1440px
 
-![desktop-small](https://user-images.githubusercontent.com/83196262/133921077-3db89d7d-fc3c-439d-8162-32ebf04bd869.png)
+![desktop-small](https://user-images.githubusercontent.com/83196262/133921354-45401918-9bb8-4847-a1c5-8823834c671d.png)
 
 
 - Mobile: 375px
