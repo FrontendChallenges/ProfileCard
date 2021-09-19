@@ -39,5 +39,7 @@ These are amazing resources that helped me understand **background-size property
 - [CSS-TRICKS-background-size property](https://css-tricks.com/almanac/properties/b/background-size/)
 - [CSSREFEREBCE.IO-background-size property](https://cssreference.io/property/background-size/)
 
-
+### What I learend
+In this challenge, I learned the difference in background-image size property between "cover" and "contain".
+Keyword "cover" literally completely covers the element by adjusting the size of the background image. but The keyword "contain" resizes the background image to make sure it remains fully visible.
 
