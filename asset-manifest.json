@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ProfileCard/static/css/main.bf22c256.chunk.css",
+    "main.js": "/ProfileCard/static/js/main.7d88deb1.chunk.js",
+    "main.js.map": "/ProfileCard/static/js/main.7d88deb1.chunk.js.map",
+    "runtime-main.js": "/ProfileCard/static/js/runtime-main.0205366c.js",
+    "runtime-main.js.map": "/ProfileCard/static/js/runtime-main.0205366c.js.map",
+    "static/js/2.d4f27d19.chunk.js": "/ProfileCard/static/js/2.d4f27d19.chunk.js",
+    "static/js/2.d4f27d19.chunk.js.map": "/ProfileCard/static/js/2.d4f27d19.chunk.js.map",
+    "index.html": "/ProfileCard/index.html",
+    "static/css/main.bf22c256.chunk.css.map": "/ProfileCard/static/css/main.bf22c256.chunk.css.map",
+    "static/js/2.d4f27d19.chunk.js.LICENSE.txt": "/ProfileCard/static/js/2.d4f27d19.chunk.js.LICENSE.txt",
+    "static/media/custom.scss": "/ProfileCard/static/media/bg-pattern-top.dae77b1f.svg",
+    "static/media/bg-pattern-card.b61daebd.svg": "/ProfileCard/static/media/bg-pattern-card.b61daebd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0205366c.js",
+    "static/js/2.d4f27d19.chunk.js",
+    "static/css/main.bf22c256.chunk.css",
+    "static/js/main.7d88deb1.chunk.js"
+  ]
+}
