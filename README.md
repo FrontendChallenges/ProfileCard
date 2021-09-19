@@ -35,8 +35,9 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - [React-bootstrap](https://react-bootstrap.github.io/)
 
 ### Useful resources
+These are amazing resources that helped me understand background-size property in CSS.
 - [CSS-TRICKS-background-size property](https://css-tricks.com/almanac/properties/b/background-size/)
-
+- [CSSREFEREBCE.IO-background-size property](https://cssreference.io/property/background-size/)
 
 
 
